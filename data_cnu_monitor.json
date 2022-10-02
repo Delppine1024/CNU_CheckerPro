@@ -1,0 +1,32 @@
+{
+  "e": 0,
+  "m": "操作成功",
+  "d": {
+    "columns": {
+      "realname": {
+        "name": "姓名",
+        "column_name": "realname"
+      },
+      "xgh": {
+        "name": "学号",
+        "column_name": "xgh"
+      },
+      "role": {
+        "name": "身份",
+        "column_name": "role"
+      },
+      "status": {
+        "name": "疑似或确诊",
+        "column_name": "status"
+      },
+      "uptime": {
+        "name": "上报时间",
+        "column_name": "uptime"
+      }
+    },
+    "lists": [
+      {
+       }
+    ]
+  }
+}
